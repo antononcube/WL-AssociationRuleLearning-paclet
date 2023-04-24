@@ -1,3 +1,5 @@
+(* ::Package:: *)
+
 (* Version 2.0 *)
 
 (* :Title: EclatAlgorithm *)
